@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev-ruby2_6_5
+image: jelaniwoods/appdev-base:test
 
 tasks:
   - init: bin/setup
